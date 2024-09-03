@@ -19,11 +19,6 @@ Follow below the goals for this project:
 3) Objective 3: Use Ensemble Classifiers to Predict Credit Risk
 4) Objective 4: A Written Report on the Credit Risk Analysis (README.md)
 
-## Resources
-
-* Data Source: [credit_risk_resampling.ipynb](https://github.com/DougUOT/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb) and [credit_risk_ensemble.ipynb](https://github.com/DougUOT/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb). The database is available on [LoanStats_2019Q1.rar](https://github.com/DougUOT/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.rar) 
-* Software & Data Tools: Python 3.8.8, Visual Studio Code 1.64.2, Jupyter Notebook 6.4.8, pandas 1.4.1, numpy 1.20.3 and scikit-learn 1.0.2
-
 ## Results & Code
 
 ## Objective 1: Use Resampling Models to Predict Credit Risk
